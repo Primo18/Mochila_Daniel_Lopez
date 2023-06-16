@@ -1,0 +1,10 @@
+● La IP privada y pública de la máquina virtual
+      IP Privada: 192.168.1.16
+      IP Pública: 190.95.43.6
+● La dirección MAC
+     MAC: 08:00:27:c7:e1:36
+● ¿Es diferente a la IP pública y privada de nuestra máquina host?
+Sí. La dirección MAC, la IP pública y la IP privada de la máquina virtual de Kali Linux 
+pueden ser diferentes a las de la máquina host. La máquina virtual se ejecuta en un entorno virtualizado 
+con su propia configuración de red, por lo que tiene su propia dirección MAC y direcciones IP asignadas. 
+Estas direcciones son independientes de las de la máquina host.
