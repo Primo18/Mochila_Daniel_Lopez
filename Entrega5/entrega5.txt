@@ -1,0 +1,12 @@
+Se subio este archivo usando ssh desde la terminal de linux
+
+1. Se habilito el servicio ssh en el servidor, se obtuvo el nombre de usuario, contraseña y IP
+2. Se ingreso al servidor usando ssh integrado en visual studio code usando el comando `ssh`
+3. Se creo un archivo de texto en el servidor usando el comando `touch`
+4. Se edito el archivo usando el comando `nano`
+5. Se guardo el archivo usando `ctrl + o`
+6. Se salio del editor usando `ctrl + x`
+7. Se agrego al stage el archivo usando `git add`
+8. Se comiteo el archivo usando `git commit`
+9. Se subio el archivo usando `git push`
+
